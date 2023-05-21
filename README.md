@@ -66,7 +66,7 @@ Then, make a folder then application.py> copy full code of app.py and then push 
 11. Review: create pipeline
 12. if error occurs: delete app.py file
 ~~~
-###Deployment Success.
+### Deployment Success.
 
 
 ## For Deployment: (Azure)
@@ -79,4 +79,4 @@ Then, make a folder then application.py> copy full code of app.py and then push 
 6. .yaml fill would be created
 7. go to github actions, add or update azure....
 ~~~
-###Deployment Completed.
+### Deployment Completed.
